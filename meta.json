@@ -1,0 +1,24 @@
+{
+    "menu": [
+        {
+            "name": "概述",
+            "key": "introduction"
+        },
+        {
+            "name": "基础教程",
+            "key": "foundation"
+        },
+        {
+            "name": "进阶教程",
+            "key": "advanced"
+        },
+        {
+            "name": "更多",
+            "key": "more"
+        }
+    ],
+    "ignore": [
+        "introduction",
+        "advanced/manifest-maintenance"
+    ]
+}

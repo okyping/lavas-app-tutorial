@@ -16,8 +16,5 @@
             "name": "更多",
             "key": "more"
         }
-    ],
-    "ignore": [
-        "introduction"
     ]
 }

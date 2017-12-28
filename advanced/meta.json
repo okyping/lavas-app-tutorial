@@ -1,7 +1,22 @@
 {
     "menu": [
         {
-            "key": "create-a-new-lavas-app"
-        }
+            "key": "how-to-use-lavas-app"
+        },
+        {
+            "key": "theme-color"
+        },
+        {
+            "key": "manifest-json"
+        },
+        {
+            "key": "pwa-properties-check"
+        },
+        {
+            "key": "auto-version-check"
+        },
+        {
+            "key": "chrome-pull-refresh-disable"
+        }   
     ]
 }

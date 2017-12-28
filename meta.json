@@ -5,11 +5,11 @@
             "key": "introduction"
         },
         {
-            "name": "基础教程",
-            "key": "foundation"
+            "name": "平台介绍",
+            "key": "platform"
         },
         {
-            "name": "进阶教程",
+            "name": "相关文档",
             "key": "advanced"
         },
         {
@@ -18,7 +18,6 @@
         }
     ],
     "ignore": [
-        "introduction",
-        "advanced/manifest-maintenance"
+        "introduction"
     ]
 }

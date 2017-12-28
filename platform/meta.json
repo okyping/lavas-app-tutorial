@@ -1,0 +1,13 @@
+{
+    "menu": [
+        {
+            "key": "manage-your-lavas-app"
+        },
+        {
+            "key": "manage-your-lavas-apk"
+        },
+        {
+            "key": "register"
+        }
+    ]
+}

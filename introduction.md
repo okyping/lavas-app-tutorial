@@ -33,7 +33,7 @@ Lavas apk 是打包平台中产出的 apk 安装文件，可以将 apk 文件提
 
 以下是 Lavas 官网的一个打包后的 apk，欢迎安装体验:
 
-![Lavas 官网 apk](./image/lavas-qrcode.png)
+![Lavas 官网 apk](./images/lavas-qrcode.png)
 
 Lavas apk 有以下几个特点：
 

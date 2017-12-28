@@ -1,12 +1,6 @@
 {
     "menu": [
         {
-            "key": "how-to-use-lavas-app"
-        },
-        {
-            "key": "auto-version-check"
-        },
-        {
             "key": "chrome-pull-refresh-disable"
         }   
     ]

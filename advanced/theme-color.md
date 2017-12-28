@@ -1,1 +1,0 @@
-# Lavas App 的 theme color

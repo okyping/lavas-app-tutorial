@@ -10,9 +10,6 @@
             "key": "manifest-json"
         },
         {
-            "key": "pwa-properties-check"
-        },
-        {
             "key": "auto-version-check"
         },
         {

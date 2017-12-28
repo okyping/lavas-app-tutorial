@@ -4,7 +4,7 @@
 
 而 Lavas app 是一个面向站长、开发者等内容和服务提供方的一套将 PWA 站点打包成 Android app 的解决方案，这样开发者可以通过在 PWA 站点的预设的提示，引导用户通过下载安装 Lavas apk，可以间接达到「添加到桌面」的效果。
 
-Lavas app 产出的 Lavas apk 支持 Service Worker，Cache API，Web Manifest 等PWA 特性，只需要开发一个 PWA 站点，就能让您的产品同时拥有 Web app 和 Native app 两种形态，可以大大减少开发人力的投入，并且能增加产品的用户粘性。
+Lavas app 产出的 Lavas apk 支持 Service Worker，Cache API，Web Manifest 等 PWA 特性，只需要开发一个 PWA 站点，就能让您的产品同时拥有 Web app 和 Native app 两种形态，可以大大减少开发人力的投入，并且能增加产品的用户粘性。
 
 目前 Lavas App 解决方案整体包含三个部分：
 

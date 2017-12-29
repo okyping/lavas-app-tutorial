@@ -45,3 +45,9 @@ Lavas app 只能将 PWA 站点进行打包，所以创建 PWA 应用之前建议
 ### 为什么 Lavas apk 这么小呢？300k 左右是怎么做到的？
 
 Lavas app 打包出的 apk 采用的是 Webview 框架模式，展现的内容都是 PWA 站点，并且 Lavas app 将内核和 app 进行分离，让所有的 Lavas app 只共用一个内核，这样用户安装的 apk 就只有 300k 左右。我们后续还会继续优化，使它变得更轻量。
+
+### Lavas apk 有自己的 ua 信息吗？
+
+有的，长得样子如下：
+
+![Lavas UA](./images/ua.png)
